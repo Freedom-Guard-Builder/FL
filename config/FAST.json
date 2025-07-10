@@ -1,5 +1,6 @@
 {
     "PUBLIC": [
+        "auto,;,freedom-guard://configAuto=https://raw.githubusercontent.com/Freedom-Guard/Freedom-Guard/refs/heads/main/config/index.json&core=auto#برای برگشت به مخزن اصلی بر روی این کانفیگ کلیک کنید",
         "vibe,;,vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?encryption=none&security=tls&sni=NGINX.NSCl.IR&alpn=h3&type=ws&host=nginx.nscl.ir&path=%2Fassets#Server-621017",
         "vibe,;,vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.18.26.90:443?encryption=none&security=tls&sni=52275ZvTv4.V2pLuSmLm.OrG&type=ws&host=52275ZvTv4.V2pLuSmLm.OrG&path=%2F#Server-77040",
         "vibe,;,vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?encryption=none&security=tls&sni=pages.dev&type=ws&host=tfs733.pages.dev&path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048#Server-171932",
