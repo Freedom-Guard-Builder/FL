@@ -3,7 +3,18 @@
         "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/loc/SG%20%F0%9F%87%B8%F0%9F%87%AC.txt#VIBE | SG***flag=sg",
         "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/FR 🇫🇷.txt#VIBE | FR***flag=fr",
         "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/NL 🇳🇱.txt#VIBE | NL***flag=nl",
-        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/US 🇺🇸.txt#VIBE | USA***flag=us"
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/US 🇺🇸.txt#VIBE | USA***flag=us",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/CA 🇨🇦.txt#VIBE | CA***flag=ca",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/DE 🇩🇪.txt#VIBE | DE***flag=de",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/FI 🇫🇮.txt#VIBE | FI***flag=fi",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/GB 🇬🇧.txt#VIBE | GB***flag=gb",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/HK 🇭🇰.txt#VIBE | HK***flag=hk",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/IE 🇮🇪.txt#VIBE | IE***flag=ie",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/IL 🇮🇱.txt#VIBE | IL***flag=il",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/IT 🇮🇹.txt#VIBE | IT***flag=it",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/JP 🇯🇵.txt#VIBE | JP***flag=jp",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/MT 🇲🇹.txt#VIBE | MT***flag=mt",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/RU 🇷🇺.txt#VIBE | RU***flag=ru"
     ],
     "MCI": [],
     "IRANCELL": [],
@@ -13,5 +24,21 @@
     "SHATEL": [],
     "PARSONLINE": [],
     "other": [],
-    "MOBILE": []
+    "MOBILE": [
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/loc/SG%20%F0%9F%87%B8%F0%9F%87%AC.txt#VIBE | SG***flag=sg",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/FR 🇫🇷.txt#VIBE | FR***flag=fr",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/NL 🇳🇱.txt#VIBE | NL***flag=nl",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/US 🇺🇸.txt#VIBE | USA***flag=us",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/CA 🇨🇦.txt#VIBE | CA***flag=ca",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/DE 🇩🇪.txt#VIBE | DE***flag=de",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/FI 🇫🇮.txt#VIBE | FI***flag=fi",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/GB 🇬🇧.txt#VIBE | GB***flag=gb",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/HK 🇭🇰.txt#VIBE | HK***flag=hk",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/IE 🇮🇪.txt#VIBE | IE***flag=ie",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/IL 🇮🇱.txt#VIBE | IL***flag=il",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/IT 🇮🇹.txt#VIBE | IT***flag=it",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/JP 🇯🇵.txt#VIBE | JP***flag=jp",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/MT 🇲🇹.txt#VIBE | MT***flag=mt",
+        "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/RU 🇷🇺.txt#VIBE | RU***flag=ru"
+    ]
 }
