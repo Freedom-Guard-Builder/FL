@@ -1,5 +1,6 @@
 {
     "PUBLIC": [
+        "freedom-guard,;,configAuto=https://raw.githubusercontent.com/Freedom-Guard/Freedom-Guard/refs/heads/main/config/index.json&core=auto#برای برگشت به مخزن اصلی بر روی این کانفیگ کلیک کنید",
         "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/loc/SG%20%F0%9F%87%B8%F0%9F%87%AC.txt#VIBE | SG***flag=sg",
         "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/FR 🇫🇷.txt#VIBE | FR***flag=fr",
         "vibe,;,https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/NL 🇳🇱.txt#VIBE | NL***flag=nl",
